@@ -25,6 +25,8 @@
 <project path="device/samsung/maguro" name="platform_device_samsung_maguro" remote="vic" revision="ics" />
 <project path="device/samsung/toro" name="platform_device_samsung_toro" remote="vic" revision="ics" />
  <project path="device/samsung/tuna" name="platform_device_samsung_tuna" remote="vic" revision="ics" />
+ <project path="device/samsung/crespo" name="platform_device_samsung_crespo" remote="vic" revision="ics" />
+ <project path="device/samsung/crespo4g" name="platform_device_samsung_crespo4g" remote="vic" revision="ics" />
 <project path="device/ti/panda" name="platform_device_ti_panda" remote="vic" revision="ics" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
   <project path="external/android-mock" name="platform/external/android-mock" />
