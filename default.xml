@@ -22,6 +22,7 @@
   <project path="device/common" name="device/common" />
   <project path="device/generic/goldfish" name="device/generic/goldfish" />
   <project path="device/sample" name="device/sample" />
+<project path="device/samsung/maguro" name="platform_device_samsung_maguro" remote="vic" revision="ics" />
 <project path="device/samsung/toro" name="platform_device_samsung_toro" remote="vic" revision="ics" />
  <project path="device/samsung/tuna" name="platform_device_samsung_tuna" remote="vic" revision="ics" />
 <project path="device/ti/panda" name="platform_device_ti_panda" remote="vic" revision="ics" />
@@ -189,7 +190,7 @@
   <project path="packages/apps/MusicFX" name="platform/packages/apps/MusicFX" />
   <project path="packages/apps/Nfc" name="platform/packages/apps/Nfc" />
   <project path="packages/apps/PackageInstaller" name="platform/packages/apps/PackageInstaller" />
-  <project path="packages/apps/Phone" name="platform/packages/apps/Phone" />
+  <project path="packages/apps/Phone" name="platform_packages_apps_Phone" remote="vic" revision="ics" />
   <project path="packages/apps/Protips" name="platform/packages/apps/Protips" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
   <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" />
@@ -234,3 +235,4 @@
   <project path="vendor/samsung" name="platform_vendor_samsung" remote="vic" revision="ics" />
 
 </manifest>
+
