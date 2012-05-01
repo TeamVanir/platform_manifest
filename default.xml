@@ -24,6 +24,7 @@
   <project path="device/sample" name="device/sample" />
 <project path="device/samsung/maguro" name="platform_device_samsung_maguro" remote="vic" revision="ics" />
 <project path="device/samsung/toro" name="platform_device_samsung_toro" remote="vic" revision="ics" />
+<project path="device/samsung/toroplus" name="platform_device_samsung_toroplus" remote="vic" revision="ics" />
  <project path="device/samsung/tuna" name="platform_device_samsung_tuna" remote="vic" revision="ics" />
  <project path="device/samsung/crespo" name="platform_device_samsung_crespo" remote="vic" revision="ics" />
  <project path="device/samsung/crespo4g" name="platform_device_samsung_crespo4g" remote="vic" revision="ics" />
@@ -188,7 +189,7 @@
   <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" />
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" />
  <project path="packages/apps/Launcher2" name="platform_packages_apps_Launcher2" remote="vic" revision="ics" />
-  <project path="packages/apps/Mms" name="platform/packages/apps/Mms" />
+  <project path="packages/apps/Mms" name="platform_packages_apps_Mms" remote="vic" revision="ics" />
   <project path="packages/apps/Music" name="platform/packages/apps/Music" />
   <project path="packages/apps/MusicFX" name="platform/packages/apps/MusicFX" />
   <project path="packages/apps/Nfc" name="platform/packages/apps/Nfc" />
@@ -238,4 +239,3 @@
   <project path="vendor/samsung" name="platform_vendor_samsung" remote="vic" revision="ics" />
 
 </manifest>
-
