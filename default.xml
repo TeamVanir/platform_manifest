@@ -237,5 +237,10 @@
   <project path="system/vold" name="platform/system/vold" />
   <project path="vendor/vicious" name="platform_vendor_vicious" remote="vic" revision="ics" />
   <project path="vendor/samsung" name="platform_vendor_samsung" remote="vic" revision="ics" />
+  <project name="themes-platform-vendor-tmobile-apps-ThemeChooser" path="vendor/tmobile/apps/ThemeChooser" remote="vic" revision="ics" />
+  <project name="platform_vendor_tmobile_libs_com.tmobile.themes" path="vendor/tmobile/libs/com.tmobile.themes" remote="vic" revision="ics" />
+  <project name="platform_vendor_tmobile_providers_ThemeManager" path="vendor/tmobile/providers/ThemeManager" remote="vic" revision="ics" />
+  <project name="platform_vendor_tmobile_themes_Androidian" path="vendor/tmobile/themes/Androidian" remote="vic" revision="ics" />
+  <project name="platform_vendor_tmobile_products_themes" path="vendor/tmobile/products/themes" remote="vic" revision="ics" />
 
 </manifest>
