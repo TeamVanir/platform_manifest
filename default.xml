@@ -4,10 +4,10 @@
   <remote  name="aosp"
            fetch="https://android.googlesource.com/" />
   <remote name="vic"
-          fetch="git://github.com/ViciousAOSP/" />
+          fetch="git://github.com/TeamVanir/" />
   <default revision="refs/tags/android-4.0.4_r2"
            remote="aosp"
-           sync-j="4" />
+           sync-j="8" />
 
   <project path="build" name="platform_build" remote="vic" revision="ics">
     <copyfile src="core/root.mk" dest="Makefile" />
@@ -235,7 +235,7 @@
   <project path="system/media" name="platform/system/media" />
   <project path="system/netd" name="platform/system/netd" />
   <project path="system/vold" name="platform/system/vold" />
-  <project path="vendor/vicious" name="platform_vendor_vicious" remote="vic" revision="ics" />
+  <project path="vendor/vanir" name="platform_vendor_vanir" remote="vic" revision="ics" />
   <project path="vendor/samsung" name="platform_vendor_samsung" remote="vic" revision="ics" />
   <project name="themes-platform-vendor-tmobile-apps-ThemeChooser" path="vendor/tmobile/apps/ThemeChooser" remote="vic" revision="ics" />
   <project name="platform_vendor_tmobile_libs_com.tmobile.themes" path="vendor/tmobile/libs/com.tmobile.themes" remote="vic" revision="ics" />
@@ -243,4 +243,6 @@
   <project name="platform_vendor_tmobile_themes_Androidian" path="vendor/tmobile/themes/Androidian" remote="vic" revision="ics" />
   <project name="platform_vendor_tmobile_products_themes" path="vendor/tmobile/products/themes" remote="vic" revision="ics" />
 
+  <! Kernel>
+  <project path="kernel/samsung/tuna" name="Siberkernel-Tuna" remote="vic" revision="master" />
 </manifest>
