@@ -22,13 +22,13 @@
   <project path="device/common" name="device/common" />
   <project path="device/generic/goldfish" name="device/generic/goldfish" />
   <project path="device/sample" name="device/sample" />
-<project path="device/samsung/maguro" name="platform_device_samsung_maguro" remote="github" revision="ics" />
-<project path="device/samsung/toro" name="platform_device_samsung_toro" remote="github" revision="ics" />
-<project path="device/samsung/toroplus" name="platform_device_samsung_toroplus" remote="github" revision="ics" />
- <project path="device/samsung/tuna" name="platform_device_samsung_tuna" remote="github" revision="ics" />
- <project path="device/samsung/crespo" name="platform_device_samsung_crespo" remote="github" revision="ics" />
- <project path="device/samsung/crespo4g" name="platform_device_samsung_crespo4g" remote="github" revision="ics" />
-<project path="device/ti/panda" name="platform_device_ti_panda" remote="github" revision="ics" />
+  <project path="device/samsung/maguro" name="platform_device_samsung_maguro" remote="github" revision="ics" />
+  <project path="device/samsung/toro" name="platform_device_samsung_toro" remote="github" revision="ics" />
+  <project path="device/samsung/toroplus" name="platform_device_samsung_toroplus" remote="github" revision="ics" />
+  <project path="device/samsung/tuna" name="platform_device_samsung_tuna" remote="github" revision="ics" />
+  <project path="device/samsung/crespo" name="platform_device_samsung_crespo" remote="github" revision="ics" />
+  <project path="device/samsung/crespo4g" name="platform_device_samsung_crespo4g" remote="github" revision="ics" />
+  <project path="device/ti/panda" name="platform_device_ti_panda" remote="github" revision="ics" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
   <project path="external/android-mock" name="platform/external/android-mock" />
   <project path="external/antlr" name="platform/external/antlr" />
@@ -147,7 +147,7 @@
   <project path="external/xmlwriter" name="platform/external/xmlwriter" />
   <project path="external/yaffs2" name="platform/external/yaffs2" />
   <project path="external/zlib" name="platform/external/zlib" />
-<project path="frameworks/base" name="platform_frameworks_base" remote="github" revision="ics" />
+  <project path="frameworks/base" name="platform_frameworks_base" remote="github" revision="ics" />
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" />
   <project path="frameworks/compile/linkloader" name="platform/frameworks/compile/linkloader" />
   <project path="frameworks/compile/slang" name="platform/frameworks/compile/slang" />
@@ -187,7 +187,7 @@
   <project path="packages/apps/Gallery2" name="platform/packages/apps/Gallery2" />
   <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" />
   <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" />
- <project path="packages/apps/Launcher2" name="platform_packages_apps_Launcher2" remote="github" revision="ics" />
+  <project path="packages/apps/Launcher2" name="platform_packages_apps_Launcher2" remote="github" revision="ics" />
   <project path="packages/apps/Mms" name="platform_packages_apps_Mms" remote="github" revision="ics" />
   <project path="packages/apps/Music" name="platform/packages/apps/Music" />
   <project path="packages/apps/MusicFX" name="platform/packages/apps/MusicFX" />
@@ -197,7 +197,7 @@
   <project path="packages/apps/Protips" name="platform/packages/apps/Protips" />
   <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
   <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" />
-<project path="packages/apps/Settings" name="platform_packages_apps_Settings" remote="github" revision="ics" />
+  <project path="packages/apps/Settings" name="platform_packages_apps_Settings" remote="github" revision="ics" />
   <project path="packages/apps/SoundRecorder" name="platform/packages/apps/SoundRecorder" />
   <project path="packages/apps/SpareParts" name="platform/packages/apps/SpareParts" />
   <project path="packages/apps/SpeechRecorder" name="platform/packages/apps/SpeechRecorder" />
@@ -211,7 +211,7 @@
   <project path="packages/inputmethods/PinyinIME" name="platform/packages/inputmethods/PinyinIME" />
   <project path="packages/providers/ApplicationsProvider" name="platform/packages/providers/ApplicationsProvider" />
   <project path="packages/providers/CalendarProvider" name="platform/packages/providers/CalendarProvider" />
-<project path="packages/providers/ContactsProvider" name="platform/packages/providers/ContactsProvider"/>
+  <project path="packages/providers/ContactsProvider" name="platform/packages/providers/ContactsProvider"/>
   <project path="packages/providers/DownloadProvider" name="platform_packages_providers_DownloadProvider" remote="github" revision="ics" />
   <project path="packages/providers/DrmProvider" name="platform/packages/providers/DrmProvider" />
   <project path="packages/providers/GoogleContactsProvider" name="platform/packages/providers/GoogleContactsProvider" />
@@ -229,7 +229,7 @@
   <project path="prebuilt" name="platform/prebuilt" />
   <project path="sdk" name="platform/sdk" />
   <project path="system/bluetooth" name="platform/system/bluetooth" />
- <project path="system/core" name="platform_system_core" remote="github" revision="ics" />
+  <project path="system/core" name="platform_system_core" remote="github" revision="ics" />
   <project path="system/extras" name="platform/system/extras" />
   <project path="system/media" name="platform/system/media" />
   <project path="system/netd" name="platform/system/netd" />
