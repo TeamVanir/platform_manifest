@@ -240,7 +240,7 @@
   <project name="platform_vendor_tmobile_libs_com.tmobile.themes" path="vendor/tmobile/libs/com.tmobile.themes" remote="github" revision="ics" />
   <project name="platform_vendor_tmobile_providers_ThemeManager" path="vendor/tmobile/providers/ThemeManager" remote="github" revision="ics" />
   <project name="platform_vendor_tmobile_themes_Androidian" path="vendor/tmobile/themes/Androidian" remote="github" revision="ics" />
-  <project name="platform_vendor_tmobile_products_themes" path="vendor/tmobile/products/themes" remote="githuba" revision="ics" />
+  <project name="platform_vendor_tmobile_products_themes" path="vendor/tmobile/products/themes" remote="github" revision="ics" />
   <!-- Kernel -->
   <project path="kernel/samsung/tuna" name="Siberkernel-Tuna" remote="github" revision="master" />
 </manifest>
